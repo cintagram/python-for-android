@@ -1,0 +1,9 @@
+appdirs
+colorama>=0.3.3
+jinja2
+build
+toml
+packaging
+
+[:sys_platform != "nt"]
+sh<2.0,>=1.10
